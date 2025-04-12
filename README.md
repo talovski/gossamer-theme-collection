@@ -32,4 +32,10 @@ Gossamer Alabaster is based on Niki Tonsky's Alabaster theme, but features sligh
 
 ![Gossamer Kanagawa theme](static/g-kanagawa.png)
 
-Gossamer Kanagawa theme features token colors from Kanagawa themes with a few tweaks, but with softer and less vibrant UI colors.
+Gossamer Kanagawa theme features token colors from Kanagawa theme with a few tweaks, but with softer and less vibrant UI colors.
+
+## Gossamer Forest theme
+
+![Gossamer Forest theme](static/g-forest.png)
+
+Gossamer Forest theme features token and UI colors from [minimalGreen](https://github.com/mdoyleaz/vs-code-theme-minimal_green) theme with a few tweaks to diff editor, line selection highlight, and title bar / activity bar background colors.

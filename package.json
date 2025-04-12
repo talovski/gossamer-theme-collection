@@ -45,6 +45,11 @@
         "label": "Gossamer Kanagawa",
         "uiTheme": "vs-dark",
         "path": "./themes/gossamer-kanagawa-color-theme.json"
+      },
+      {
+        "label": "Gossamer Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-forest-color-theme.json"
       }
     ]
   },
