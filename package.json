@@ -1,0 +1,62 @@
+{
+  "name": "gossamer-theme-collection",
+  "displayName": "Gossamer Theme Collection",
+  "description": "Calm and soft themes",
+  "icon": "icon.png",
+  "publisher": "tali",
+  "version": "1.0.0",
+  "maintainers": [
+    "Nika Tali nikaisokay@gmail.com"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gossamer Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-dark-color-theme.json"
+      },
+      {
+        "label": "Gossamer Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-minimal-color-theme.json"
+      },
+      {
+        "label": "Gossamer Caramel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-caramel-color-theme.json"
+      },
+      {
+        "label": "Gossamer Alabaster",
+        "uiTheme": "vs",
+        "path": "./themes/gossamer-alabaster-color-theme.json"
+      },
+      {
+        "label": "Gossamer Mariana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-mariana-color-scheme.json"
+      },
+      {
+        "label": "Gossamer Kanagawa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-kanagawa-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talovski/migraine-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/talovski/migraine-dark/issues"
+  },
+  "author": {
+    "name": "Nika Tali",
+    "email": "nikaisokay@gmail.com"
+  }
+}
