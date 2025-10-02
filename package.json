@@ -3,11 +3,8 @@
   "displayName": "Gossamer Theme Collection",
   "description": "Calm and soft themes",
   "icon": "icon.png",
-  "publisher": "maybetheysleep",
+  "publisher": "nikagossamer",
   "version": "1.0.0",
-  "maintainers": [
-    "Nika Gossamer nika.gossamer@gmail.com"
-  ],
   "engines": {
     "vscode": "^1.70.0"
   },

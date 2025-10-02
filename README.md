@@ -39,3 +39,7 @@ Gossamer Kanagawa theme features token colors from Kanagawa theme with a few twe
 ![Gossamer Forest theme](static/g-forest.png)
 
 Gossamer Forest theme features token and UI colors from [minimalGreen](https://github.com/mdoyleaz/vs-code-theme-minimal_green) theme with a few tweaks to diff editor, line selection highlight, and title bar / activity bar background colors.
+
+## Icons
+
+Now this theme collection also includes a set of icons forked from Moxer Icons which were removed from the VS Marketplace due to suspicion of malicious code. This is an older fork, from before the suspusion code was inserted. There is nothing but pure SVG, and certainly no JS. You can check it in `themes/icons/icons.json` and `assets` folder.
