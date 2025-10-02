@@ -3,10 +3,10 @@
   "displayName": "Gossamer Theme Collection",
   "description": "Calm and soft themes",
   "icon": "icon.png",
-  "publisher": "tali",
+  "publisher": "maybetheysleep",
   "version": "1.0.0",
   "maintainers": [
-    "Nika Tali nikaisokay@gmail.com"
+    "Nika Gossamer nika.gossamer@gmail.com"
   ],
   "engines": {
     "vscode": "^1.70.0"
@@ -15,6 +15,13 @@
     "Themes"
   ],
   "contributes": {
+    "iconThemes": [
+      {
+        "id": "icons",
+        "label": "Gossamer Icons",
+        "path": "./themes/icons/icons.json"
+      }
+    ],
     "themes": [
       {
         "label": "Gossamer Dark",
@@ -55,13 +62,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/talovski/migraine-dark.git"
+    "url": "https://github.com/talovski/gossamer-theme-collection.git"
   },
   "bugs": {
-    "url": "https://github.com/talovski/migraine-dark/issues"
+    "url": "https://github.com/talovski/gossamer-theme-collection/issues"
   },
   "author": {
-    "name": "Nika Tali",
-    "email": "nikaisokay@gmail.com"
+    "name": "Nika Gossamer",
+    "email": "nika.gossamer@gmail.com"
   }
 }
