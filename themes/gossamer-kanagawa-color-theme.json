@@ -315,7 +315,7 @@
 
     {
       "name": "Block Level Variables",
-      "scope": ["meta.block variable.other"],
+      "scope": ["meta.block variable.other", "meta.jsx.children"],
       "settings": { "foreground": "#C8C093" }
     },
     {

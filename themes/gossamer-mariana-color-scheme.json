@@ -205,7 +205,7 @@
       }
     },
     {
-      "scope": ["variable.other", "support.constant", "punctuation.brackets.attribute", "punctuation.brackets"],
+      "scope": ["variable.other", "support.constant", "punctuation.brackets.attribute", "punctuation.brackets", "meta.jsx.children"],
       "settings": {
         "foreground": "#D8DEE9"
       }
