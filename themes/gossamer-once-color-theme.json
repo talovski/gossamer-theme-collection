@@ -348,7 +348,10 @@
       }
     },
     {
-      "scope": ["keyword", "storage"],
+      "scope": [
+        "keyword",
+        "storage"
+      ],
       "settings": {
         "foreground": "#b477cfff"
       }
@@ -365,13 +368,19 @@
       }
     },
     {
-      "scope": ["entity.name.type", "meta.tag.attributes"],
+      "scope": [
+        "entity.name.type",
+        "meta.tag.attributes"
+      ],
       "settings": {
         "foreground": "#7EB2BD"
       }
     },
     {
-      "scope": ["variable", "support.type.property-name"],
+      "scope": [
+        "variable",
+        "support.type.property-name"
+      ],
       "settings": {
         "foreground": "#d07277ff"
       }

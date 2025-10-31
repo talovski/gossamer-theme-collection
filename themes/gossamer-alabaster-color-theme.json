@@ -1,56 +1,100 @@
 {
   "name": "Gossamer Alabaster",
   "tokenColors": [
-    { "scope": ["meta.template.expression", "string.template"], "settings": { "foreground": "#000" } },
+    {
+      "scope": [
+        "meta.template.expression",
+        "string.template"
+      ],
+      "settings": {
+        "foreground": "#000"
+      }
+    },
     {
       "name": "Comments",
-      "scope": ["comment", "punctuation.definition.comment"],
-      "settings": { "foreground": "#AA3731" }
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#AA3731"
+      }
     },
     {
       "name": "Strings",
-      "scope": ["string", "string.regexp", "constant.other.symbol"],
-      "settings": { "foreground": "#448C27" }
+      "scope": [
+        "string",
+        "string.regexp",
+        "constant.other.symbol"
+      ],
+      "settings": {
+        "foreground": "#448C27"
+      }
     },
     {
       "name": "Strings: Escape Sequences",
       "scope": "constant.character.escape",
-      "settings": { "foreground": "#777777" }
+      "settings": {
+        "foreground": "#777777"
+      }
     },
     {
       "name": "Numbers, Characters",
-      "scope": ["constant.numeric", "constant.character", "constant.keyword", "constant"],
-      "settings": { "foreground": "#7A3E9D" }
+      "scope": [
+        "constant.numeric",
+        "constant.character",
+        "constant.keyword",
+        "constant"
+      ],
+      "settings": {
+        "foreground": "#7A3E9D"
+      }
     },
     {
       "name": "Global definitions",
       "scope": "entity.name",
-      "settings": { "foreground": "#325CC0" }
+      "settings": {
+        "foreground": "#325CC0"
+      }
     },
     {
       "name": "Punctuation",
       "scope": "punctuation",
-      "settings": { "foreground": "#777777" }
+      "settings": {
+        "foreground": "#777777"
+      }
     },
     {
       "name": "Invalid",
       "scope": "invalid",
-      "settings": { "foreground": "#660000" }
+      "settings": {
+        "foreground": "#660000"
+      }
     },
     {
       "name": "Extra: Diff Range",
-      "scope": ["meta.diff.range", "meta.diff.index", "meta.separator"],
-      "settings": { "foreground": "#434343" }
+      "scope": [
+        "meta.diff.range",
+        "meta.diff.index",
+        "meta.separator"
+      ],
+      "settings": {
+        "foreground": "#434343"
+      }
     },
     {
       "name": "Extra: Diff From",
       "scope": "meta.diff.header.from-file",
-      "settings": { "foreground": "#434343" }
+      "settings": {
+        "foreground": "#434343"
+      }
     },
     {
       "name": "Extra: Diff To",
       "scope": "meta.diff.header.to-file",
-      "settings": { "foreground": "#434343" }
+      "settings": {
+        "foreground": "#434343"
+      }
     }
   ],
   "colors": {
@@ -69,7 +113,6 @@
     "list.hoverBackground": "#E6E6E6",
     "list.inactiveSelectionBackground": "#E6E6E6",
     "tab.border": "#ECECEC",
-
     "editor.background": "#F7F7F7",
     "editor.foreground": "#000",
     "editor.lineHighlightBackground": "#F0F0F0",
@@ -89,25 +132,20 @@
     "statusBar.debuggingForeground": "#000",
     "statusBar.noFolderBackground": "#7A3E9D",
     "statusBar.noFolderForeground": "#fff",
-
     "editorBracketHighlight.foreground1": "#000000",
     "editorBracketHighlight.foreground2": "#000000",
     "editorBracketHighlight.foreground3": "#000000",
     "editorBracketHighlight.foreground4": "#000000",
     "editorBracketHighlight.foreground5": "#000000",
     "editorBracketHighlight.foreground6": "#000000",
-
     "list.activeSelectionForeground": "#000000",
     "list.focusHighlightForeground": "#007ACC",
-
     "quickInputList.focusForeground": "#000000",
     "quickInputList.focusBackground": "#DDDDDD",
-
     "editorSuggestWidget.selectedBackground": "#DDDDDD",
     "editorSuggestWidget.focusHighlightForeground": "#000000",
     "editorSuggestWidget.highlightForeground": "#000000",
     "editorSuggestWidget.selectedForeground": "#000000",
-
     "terminal.ansiWhite": "#BBBBBB",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#325CC0",
