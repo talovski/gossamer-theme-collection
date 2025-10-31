@@ -145,7 +145,7 @@
     "editorSuggestWidget.selectedForeground": "#b9bbb8",
     "editorSuggestWidget.selectedIconForeground": "#b9bbb8",
 
-    "editor.selectionHighlightBackground": "#363646",
+    "editor.selectionHighlightBackground": "#363646e4",
     "editor.selectionHighlightBorder": "#54546D",
 
     "editorBracketHighlight.foreground1": "#223249",
