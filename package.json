@@ -26,6 +26,11 @@
         "path": "./themes/gossamer-dark-color-theme.json"
       },
       {
+        "label": "Gossamer Once",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-once-color-theme.json"
+      },
+      {
         "label": "Gossamer Minimal",
         "uiTheme": "vs-dark",
         "path": "./themes/gossamer-minimal-color-theme.json"

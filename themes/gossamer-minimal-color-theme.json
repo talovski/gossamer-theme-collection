@@ -66,6 +66,15 @@
     "tab.unfocusedHoverBorder": "#ff000000",
     "tab.unfocusedInactiveForeground": "#ffffff70",
 
+    "diffEditor.insertedTextBackground": "#77cfbc24",
+		"diffEditor.insertedLineBackground": "#77cfbc24",
+		"diffEditor.removedTextBackground": "#c86f8420",
+		"diffEditor.removedLineBackground": "#c86f8420",
+		"diffEditorGutter.removedLineBackground": "#c86f8420",
+		"diffEditorGutter.insertedLineBackground": "#77cfbc24",
+		"multiDiffEditor.headerBackground": "#252525",
+
+
     "editor.findMatchBackground": "#f4f4f414",
     "editor.findMatchBorder": "#636366",
     "editor.findMatchHighlightBackground": "#3A3A3A",
@@ -160,9 +169,6 @@
     "gitDecoration.modifiedResourceForeground": "#ebcb8b",
     "gitDecoration.submoduleResourceForeground": "#ffffff70",
     "gitDecoration.untrackedResourceForeground": "#ffffff70",
-
-    "diffEditor.insertedTextBackground": "#A3CE9E40",
-    "diffEditor.removedTextBackground": "#EE6A6F40",
 
     "scrollbar.shadow": "#ff000000",
     "scrollbarSlider.activeBackground": "#f4f4f430",
@@ -306,7 +312,6 @@
         "keyword.operator"
       ],
       "settings": {
-        // "foreground": "#DE7272"
         "foreground": "#C695C6"
       }
     },
