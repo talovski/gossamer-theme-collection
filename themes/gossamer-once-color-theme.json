@@ -150,7 +150,7 @@
     "editorError.background": "default",
     "debugToolBar.background": "#C37779",
     "textCodeBlock.background": "default",
-    "editorWarning.background": "default",
+    "editorWarning.background": "#2a2c3100",
     "textPreformat.background": "default",
     "toolbar.activeBackground": "default",
     "textBlockQuote.background": "default",

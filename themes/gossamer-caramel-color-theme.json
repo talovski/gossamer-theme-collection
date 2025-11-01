@@ -77,7 +77,7 @@
 		// "editorSuggestWidget.highlightForeground": "#F6AE5A",
 		"editorWarning.foreground": "#FAB763",
 		"editorWhitespace.foreground": "#f4f4f430",
-		"editorWidget.background": "#282828",
+		"editorWidget.background": "#1D1D1D",
 		"editorWidget.border": "#f4f4f430",
 		"editorWidget.foreground": "#828282",
 		"editorWidget.resizeBorder": "#ff000000",

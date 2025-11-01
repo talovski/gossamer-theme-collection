@@ -59,6 +59,11 @@
         "label": "Gossamer Forest",
         "uiTheme": "vs-dark",
         "path": "./themes/gossamer-forest-color-theme.json"
+      },
+      {
+        "label": "Gossamer Once",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gossamer-once-color-theme.json"
       }
     ]
   },

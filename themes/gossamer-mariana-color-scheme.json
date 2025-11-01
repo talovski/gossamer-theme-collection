@@ -1,5 +1,4 @@
 {
-  "$schema": "vscode://schemas/color-theme",
   "name": "Gossamer Mariana",
   "type": "dark",
   "colors": {
@@ -14,7 +13,6 @@
     "list.activeSelectionBackground": "#2A2F34",
     "list.inactiveSelectionBackground": "#2A2F34",
     "list.focusBackground": "#2A2F34",
-    // "list.dropBackground": "#2A2F34",
     "list.errorForeground": "#ec5f66",
     "list.warningForeground": "#fac761",
     "list.dropBackground": "#99c79480",
