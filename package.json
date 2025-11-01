@@ -19,11 +19,13 @@
     ],
     "themes": [
       {
+        "id": "gossamer-dark",
         "label": "Gossamer Dark",
         "path": "./themes/gossamer-dark-color-theme.json",
         "uiTheme": "vs-dark"
       },
       {
+        "id": "gossamer-minimal",
         "label": "Gossamer Minimal",
         "path": "./themes/gossamer-minimal-color-theme.json",
         "uiTheme": "vs-dark"
@@ -38,6 +40,18 @@
         "id": "gossamer-alabaster",
         "label": "Gossamer Alabaster",
         "path": "./themes/gossamer-alabaster-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "id": "gossamer-octocat-bright",
+        "label": "Gossamer Octocat Bright",
+        "path": "./themes/gossamer-octocat-bright-color-theme.json",
+        "uiTheme": "vs"
+      },
+      {
+        "id": "gossamer-octocat-soft",
+        "label": "Gossamer Octocat Soft",
+        "path": "./themes/gossamer-octocat-soft-color-theme.json",
         "uiTheme": "vs"
       },
       {
