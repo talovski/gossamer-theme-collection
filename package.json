@@ -1,12 +1,10 @@
 {
-  "name": "gossamer-theme-collection",
-  "displayName": "Gossamer Theme Collection",
-  "description": "Calm and soft themes",
-  "icon": "icon.png",
-  "publisher": "nikagossamer",
-  "version": "1.0.0",
-  "engines": {
-    "vscode": "^1.70.0"
+  "author": {
+    "email": "nika.gossamer@gmail.com",
+    "name": "Nika Gossamer"
+  },
+  "bugs": {
+    "url": "https://github.com/talovski/gossamer-theme-collection/issues"
   },
   "categories": [
     "Themes"
@@ -22,60 +20,63 @@
     "themes": [
       {
         "label": "Gossamer Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-dark-color-theme.json"
-      },
-      {
-        "label": "Gossamer Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-dark-color-theme.json"
+        "path": "./themes/gossamer-dark-color-theme.json",
+        "uiTheme": "vs-dark"
       },
       {
         "label": "Gossamer Minimal",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-minimal-color-theme.json"
+        "path": "./themes/gossamer-minimal-color-theme.json",
+        "uiTheme": "vs-dark"
       },
       {
+        "id": "gossamer-caramel",
         "label": "Gossamer Caramel",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-caramel-color-theme.json"
+        "path": "./themes/gossamer-caramel-color-theme.json",
+        "uiTheme": "vs-dark"
       },
       {
+        "id": "gossamer-alabaster",
         "label": "Gossamer Alabaster",
-        "uiTheme": "vs",
-        "path": "./themes/gossamer-alabaster-color-theme.json"
+        "path": "./themes/gossamer-alabaster-color-theme.json",
+        "uiTheme": "vs"
       },
       {
+        "id": "gossamer-seafaring",
         "label": "Gossamer Seafaring",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-seafaring-color-scheme.json"
+        "path": "./themes/gossamer-seafaring-color-scheme.json",
+        "uiTheme": "vs-dark"
       },
       {
+        "id": "gossamer-kanagawa",
         "label": "Gossamer Kanagawa",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-kanagawa-color-theme.json"
+        "path": "./themes/gossamer-kanagawa-color-theme.json",
+        "uiTheme": "vs-dark"
       },
       {
+        "id": "gossamer-forest",
         "label": "Gossamer Forest",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-forest-color-theme.json"
+        "path": "./themes/gossamer-forest-color-theme.json",
+        "uiTheme": "vs-dark"
       },
       {
+        "id": "gossamer-faded",
         "label": "Gossamer Faded",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-faded-color-theme.json"
+        "path": "./themes/gossamer-faded-color-theme.json",
+        "uiTheme": "vs-dark"
       }
     ]
   },
+  "description": "Calm and soft themes",
+  "displayName": "Gossamer Theme Collection",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "icon": "icon.png",
+  "name": "gossamer-theme-collection",
+  "publisher": "nikagossamer",
   "repository": {
     "type": "git",
     "url": "https://github.com/talovski/gossamer-theme-collection.git"
   },
-  "bugs": {
-    "url": "https://github.com/talovski/gossamer-theme-collection/issues"
-  },
-  "author": {
-    "name": "Nika Gossamer",
-    "email": "nika.gossamer@gmail.com"
-  }
+  "version": "1.0.0"
 }
