@@ -26,9 +26,9 @@
         "path": "./themes/gossamer-dark-color-theme.json"
       },
       {
-        "label": "Gossamer Once",
+        "label": "Gossamer Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-once-color-theme.json"
+        "path": "./themes/gossamer-dark-color-theme.json"
       },
       {
         "label": "Gossamer Minimal",
@@ -46,9 +46,9 @@
         "path": "./themes/gossamer-alabaster-color-theme.json"
       },
       {
-        "label": "Gossamer Mariana",
+        "label": "Gossamer Seafaring",
         "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-mariana-color-scheme.json"
+        "path": "./themes/gossamer-seafaring-color-scheme.json"
       },
       {
         "label": "Gossamer Kanagawa",
@@ -61,9 +61,9 @@
         "path": "./themes/gossamer-forest-color-theme.json"
       },
       {
-        "label": "Gossamer Once",
+        "label": "Gossamer Faded",
         "uiTheme": "vs-dark",
-        "path": "./themes/gossamer-once-color-theme.json"
+        "path": "./themes/gossamer-faded-color-theme.json"
       }
     ]
   },
