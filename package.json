@@ -12,7 +12,7 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "icons",
+        "id": "gossamer-icons",
         "label": "Gossamer Icons",
         "path": "./themes/icons/icons.json"
       }
@@ -21,61 +21,67 @@
       {
         "id": "gossamer-dark",
         "label": "Gossamer Dark",
-        "path": "./themes/gossamer-dark-color-theme.json",
+        "path": "./themes/dark.json",
         "uiTheme": "vs-dark"
       },
       {
         "id": "gossamer-minimal",
         "label": "Gossamer Minimal",
-        "path": "./themes/gossamer-minimal-color-theme.json",
+        "path": "./themes/minimal.json",
         "uiTheme": "vs-dark"
       },
       {
         "id": "gossamer-caramel",
         "label": "Gossamer Caramel",
-        "path": "./themes/gossamer-caramel-color-theme.json",
+        "path": "./themes/caramel.json",
         "uiTheme": "vs-dark"
       },
       {
         "id": "gossamer-alabaster",
         "label": "Gossamer Alabaster",
-        "path": "./themes/gossamer-alabaster-color-theme.json",
+        "path": "./themes/alabaster.json",
         "uiTheme": "vs"
       },
       {
         "id": "gossamer-octocat-bright",
         "label": "Gossamer Octocat Bright",
-        "path": "./themes/gossamer-octocat-bright-color-theme.json",
+        "path": "./themes/octocat-bright.json",
         "uiTheme": "vs"
       },
       {
         "id": "gossamer-octocat-soft",
         "label": "Gossamer Octocat Soft",
-        "path": "./themes/gossamer-octocat-soft-color-theme.json",
+        "path": "./themes/octocat-soft.json",
         "uiTheme": "vs"
       },
       {
         "id": "gossamer-seafaring",
         "label": "Gossamer Seafaring",
-        "path": "./themes/gossamer-seafaring-color-scheme.json",
+        "path": "./themes/seafaring.json",
         "uiTheme": "vs-dark"
       },
       {
         "id": "gossamer-kanagawa",
         "label": "Gossamer Kanagawa",
-        "path": "./themes/gossamer-kanagawa-color-theme.json",
+        "path": "./themes/kanagawa.json",
         "uiTheme": "vs-dark"
       },
       {
         "id": "gossamer-forest",
         "label": "Gossamer Forest",
-        "path": "./themes/gossamer-forest-color-theme.json",
+        "path": "./themes/forest.json",
         "uiTheme": "vs-dark"
       },
       {
         "id": "gossamer-faded",
         "label": "Gossamer Faded",
-        "path": "./themes/gossamer-faded-color-theme.json",
+        "path": "./themes/faded.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "id": "gossamer-ink",
+        "label": "Gossamer Ink",
+        "path": "./themes/ink.json",
         "uiTheme": "vs-dark"
       }
     ]
